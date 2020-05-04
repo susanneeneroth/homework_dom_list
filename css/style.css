@@ -1,0 +1,19 @@
+.title {
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 60px;
+}
+
+li {
+	width: 300px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+li:nth-child(odd) {
+	background-color: pink;
+	padding: 10px;
+}
+
+li:nth-child(even) {
+	background-color: #f4f4f4;
+	padding: 10px;
+}
